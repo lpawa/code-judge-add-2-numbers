@@ -1,5 +1,7 @@
-# cj-app
+# codejudge -app
 React SPA
+
+## Basic app to Add 2 Numbers
 
 IMPORTANT NOTES (In case Backend Service API Integration is required):
 
